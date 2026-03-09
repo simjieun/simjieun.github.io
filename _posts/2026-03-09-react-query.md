@@ -5,8 +5,6 @@ categories: [Frontend, React]
 tags: [react-query, sentry, debugging, typescript]
 ---
 
-# React Query: API 중복 호출과 Sentry 로그 과다 적재 문제 분석
-
 > API 오류 발생 시 동일한 API가 여러 번 호출되고, Sentry에 동일 에러 로그가 수십 번 쌓이는 현상을 분석하고 해결한 과정을 기록함.
 
 ---
